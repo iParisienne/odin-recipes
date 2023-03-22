@@ -7,4 +7,4 @@ May visit later and add some css.
 
 ## Links
 
-- [Preview](https://iparisienne.github.io/odin-projects/odin-recipes/index.html)
+- [Preview](https://iparisienne.github.io/odin-recipes/index.html)
